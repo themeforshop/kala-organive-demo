@@ -72,7 +72,7 @@ span.date > i,
 .srch-fund-inr > strong span,
 .page-title > h1
 {
-	color: #009efb;
+	color: #81B03F;
 }
 
 /*===== Border Color =====*/ 
@@ -82,30 +82,30 @@ span.date > i,
 .vw-al > a:hover,
 .widget ul li:hover > span
 {
-	border-color: #009efb;
+	border-color: #81B03F;
 }
 
 /*===== Border Top Color =====*/ 
 
 {
-	border-top-color: #009efb;
+	border-top-color: #81B03F;
 }
 
 /*===== Border Right Color =====*/ 
 
 {
-	border-right-color: #009efb;
+	border-right-color: #81B03F;
 }
 
 /*===== Border Bottom Color =====*/
 .acordn-itm.activate
 {
-	border-bottom-color: #009efb;
+	border-bottom-color: #81B03F;
 }
 
 /*===== Border Left Color =====*/ 
 .sec-tl-innr .tl-shp,
 .sec-tl-innr .tl-shp-inr
 {
-	border-left-color: #009efb;
+	border-left-color: #81B03F;
 }
