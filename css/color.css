@@ -87,7 +87,7 @@ span.date > i,
 
 /*===== Border Top Color =====*/ 
 
-{
+/* {
 	border-top-color: #81B03F;
 }
 
@@ -95,7 +95,7 @@ span.date > i,
 
 {
 	border-right-color: #81B03F;
-}
+} */
 
 /*===== Border Bottom Color =====*/
 .acordn-itm.activate
@@ -108,4 +108,7 @@ span.date > i,
 .sec-tl-innr .tl-shp-inr
 {
 	border-left-color: #81B03F;
+}
+a:focus, a:hover {
+    color: #81B03F;    
 }
